@@ -30,7 +30,7 @@ NPS 是一款轻量高效的内网穿透代理服务器，支持多种协议（T
 
 ---
 
-![NPS Web UI](docs/nps.png)
+![NPS Web UI](https://www.081011.xyz/upload/NPS.png)
 
 ---
 
