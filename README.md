@@ -6,7 +6,7 @@
 > 
 
 
-### 公益性站点（由djylb/nps二次开发版）
+### 公益性站点（djylb/nps二次开发版）
 ### 🌐[境内主站](https://frp.cokei521.top)
 
 ### 🌐[香港主站](https://nps.081011.xyz)
